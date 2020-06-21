@@ -1,4 +1,6 @@
-Use Main for testing
+# ReadME
+
+## Use Main for testing
 The algorithm is made into class for ease testing
 
 graphGene is the graph generator
