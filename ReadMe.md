@@ -1,11 +1,11 @@
 # ReadME
 
-## Use Main for testing
+Use Main for testing
 The algorithm is made into class for ease testing
-
-graphGene is the graph generator
-the format of generated graph file is:
-numVerTar
+<br>
+graphGene is the graph generator<br>
+the format of generated graph file is:<br>
+numVerTar<br>
 ver1Tar adjver1Tar adjver1Tar
 ver2Tar adjver2Tar adjver2Tar adjver2Tar
 .
